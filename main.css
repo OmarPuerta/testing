@@ -3,6 +3,10 @@ body{
   color: #fff;
 }
 
+h1:hover {
+  text-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
+}
+
 h2{
   color: red;
   text-align: center;
