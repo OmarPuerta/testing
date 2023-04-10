@@ -4,7 +4,7 @@ body{
 }
 
 h1:hover {
-  text-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
+  box-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
 }
 
 h2{
@@ -14,5 +14,5 @@ h2{
 
 h2:hover {
   font-size:100px;
-  text-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
+  box-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
 }
