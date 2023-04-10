@@ -8,7 +8,7 @@ h2{
   text-align: center;
 }
 
-h2:hover{
+h2:hover {
   font-size:100px;
   box-shadow: 47px 17px 59px 5px rgba(60,224,45,1);
 }
